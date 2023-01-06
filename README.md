@@ -11,3 +11,4 @@ lead to insulin development, and possibly a permanent cure. Research regarding t
 that come along with diabetes can be further enhanced and studied with information gathered
 from this system. The need for control is to provide a basic response to the required control of
 the differential model.
+*Matlab Code included in the pdf report*
